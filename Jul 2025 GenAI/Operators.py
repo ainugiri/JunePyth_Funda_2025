@@ -1,4 +1,4 @@
-arithmetic operators
+# arithmetic operators
 
 x = input("Enter a value for x    :   ")
 print(x)
@@ -43,7 +43,7 @@ print("Remainder value ", remainder)
 
 
 
-Assignment Operator =
+# Assignment Operator =
 x = 10              # 10
 x = 10 + 1          # 11
 x += 1              # 12
